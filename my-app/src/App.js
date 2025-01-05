@@ -8,8 +8,8 @@ function App() {
   return (
 
   <div className={css.App}>
-    {/* { <Sidebar /> }
-    { <NavBarSimple /> } */}
+    { <Sidebar /> }
+    {/* { <NavBarSimple /> } */}
     { <NavBarForm />}
   </div>
 
